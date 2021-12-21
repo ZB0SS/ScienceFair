@@ -1,0 +1,32 @@
+.results {
+    text-align: center!important;
+    margin-right: 15rem!important;
+    width: 250px;
+    text-decoration: none;
+}
+
+
+
+.results:hover {
+    color: grey;
+}
+
+.option {
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 60px;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    /* border: none; */
+    border-color: darkblue;
+    background-color: #0b5ed7;
+
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
