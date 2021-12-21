@@ -1,2 +1,2 @@
 # ScienceFair
-! Zias Science Fair Project
+## Zias Science Fair Project
