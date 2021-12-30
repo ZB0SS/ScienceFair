@@ -1,0 +1,8 @@
+# Default ignored files
+./Python/.idea/shelf/
+./Python/.idea/workspace.xml
+# Editor-based HTTP Client requests
+./Python/.idea/httpRequests/
+# Datasource local storage ignored files
+./Python/.idea/dataSources/
+./Python/.idea/dataSources.local.xml
